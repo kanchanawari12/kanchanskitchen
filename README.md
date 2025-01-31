@@ -4,7 +4,7 @@
 
 ---
 
-![kanchan img](kanchan.jpg)
+![kanchan img](./../img/kanchan.jpg)
 
 As we know **Food** is the only motive of our life.
 
